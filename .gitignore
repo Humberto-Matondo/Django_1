@@ -1,0 +1,4 @@
+venv
+.env
+mysql_container
+static_files
